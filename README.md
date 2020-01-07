@@ -1,2 +1,2 @@
 # ML_task4
-Affinity propagation for Gowalla check-in recommendation
+Affinity propagation for the Gowalla social network
